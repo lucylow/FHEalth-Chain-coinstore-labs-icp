@@ -8,6 +8,8 @@
 
 By incorporating FHE, **FHEalth** provides advanced AI-driven analytics, such as predictive health models and risk assessments, while maintaining the highest level of data privacy. With FHEalth, users maintain full control over their encryption keys, allowing for secure data access and sharing on their terms.
 
+![](https://github.com/lucylow/FHEalth-Chain-coinstore-labs-icp/blob/main/1.png?raw=true)
+
 
 ### **Vision**
 The vision of **FHEalth** is to revolutionize the healthcare industry by offering a **privacy-preserving platform** that empowers patients to control their medical data securely. Our goal is to provide a solution where:
@@ -78,6 +80,9 @@ We envision a future where **security and privacy are intrinsic** to every healt
      - Provide documentation and user support for patients and healthcare providers.
      - Launch marketing campaign targeting healthcare institutions and privacy-conscious users.
 
+
+
+![](https://github.com/lucylow/FHEalth-Chain-coinstore-labs-icp/blob/main/2.png?raw=true)
 
 
 =========================================================================================================================================================================================
