@@ -27,6 +27,52 @@ We envision a future where **security and privacy are intrinsic** to every healt
 5. **End-to-End Encryption**: All interactions on the platform, from data storage to computation, are fully encrypted, ensuring the highest level of security for patient data.
 
 
+### **Milestones**
+
+#### **Milestone 1: Initial Platform Development (Weeks 1-3)**
+   - **Objective**: Set up the basic infrastructure for encrypted data storage and transmission.
+   - **Deliverables**:
+     - Develop core ICP canisters for encrypted data handling.
+     - Implement client-side encryption and decryption functionality.
+     - Create a basic user interface for uploading encrypted medical data.
+
+#### **Milestone 2: FHE Integration and Encrypted Computation (Weeks 4-6)**
+   - **Objective**: Enable encrypted computations within ICP canisters using Fully Homomorphic Encryption.
+   - **Deliverables**:
+     - Perform encrypted data processing operations (addition, multiplication).
+     - Deploy AI models that can compute on encrypted medical data.
+     - Return encrypted results for decryption by the user.
+
+#### **Milestone 3: Secure Medical Data Sharing (Weeks 7-9)**
+   - **Objective**: Implement secure data sharing between patients and healthcare providers.
+   - **Deliverables**:
+     - Develop functionality for patients to securely share encrypted data.
+     - Implement role-based access control (RBAC) for granting permissions to providers.
+     - Ensure automated management of encryption keys for secure sharing.
+
+#### **Milestone 4: AI-Assisted Health Analytics on Encrypted Data (Weeks 10-12)**
+   - **Objective**: Deploy AI models for health analytics on encrypted medical data.
+   - **Deliverables**:
+     - Enable AI models to process encrypted data for health insights.
+     - Optimize encrypted AI computations for performance.
+     - Validate the accuracy of AI results post-decryption.
+
+#### **Milestone 5: User Testing, Security Audits, and Optimization (Weeks 13-15)**
+   - **Objective**: Conduct user testing and third-party security audits for platform validation.
+   - **Deliverables**:
+     - Gather feedback from user acceptance testing (UAT).
+     - Perform security audits on FHE implementation.
+     - Optimize user interface and canister performance.
+
+#### **Milestone 6: Full Platform Launch (Weeks 16-18)**
+   - **Objective**: Launch the full platform with all core features and privacy-preserving capabilities.
+   - **Deliverables**:
+     - Public release with secure data storage, encrypted computation, and AI analytics.
+     - Provide documentation and user support for patients and healthcare providers.
+     - Launch marketing campaign targeting healthcare institutions and privacy-conscious users.
+
+
+
 =========================================================================================================================================================================================
 
 ## Installation & Setup
@@ -77,51 +123,7 @@ Fork the repository.
 Create a new branch:
 git checkout -b feature-branch
 
+'''
 
 
-=========================================================================================================================================================================================
 
-
-### **Milestones**
-
-#### **Milestone 1: Initial Platform Development (Weeks 1-3)**
-   - **Objective**: Set up the basic infrastructure for encrypted data storage and transmission.
-   - **Deliverables**:
-     - Develop core ICP canisters for encrypted data handling.
-     - Implement client-side encryption and decryption functionality.
-     - Create a basic user interface for uploading encrypted medical data.
-
-#### **Milestone 2: FHE Integration and Encrypted Computation (Weeks 4-6)**
-   - **Objective**: Enable encrypted computations within ICP canisters using Fully Homomorphic Encryption.
-   - **Deliverables**:
-     - Perform encrypted data processing operations (addition, multiplication).
-     - Deploy AI models that can compute on encrypted medical data.
-     - Return encrypted results for decryption by the user.
-
-#### **Milestone 3: Secure Medical Data Sharing (Weeks 7-9)**
-   - **Objective**: Implement secure data sharing between patients and healthcare providers.
-   - **Deliverables**:
-     - Develop functionality for patients to securely share encrypted data.
-     - Implement role-based access control (RBAC) for granting permissions to providers.
-     - Ensure automated management of encryption keys for secure sharing.
-
-#### **Milestone 4: AI-Assisted Health Analytics on Encrypted Data (Weeks 10-12)**
-   - **Objective**: Deploy AI models for health analytics on encrypted medical data.
-   - **Deliverables**:
-     - Enable AI models to process encrypted data for health insights.
-     - Optimize encrypted AI computations for performance.
-     - Validate the accuracy of AI results post-decryption.
-
-#### **Milestone 5: User Testing, Security Audits, and Optimization (Weeks 13-15)**
-   - **Objective**: Conduct user testing and third-party security audits for platform validation.
-   - **Deliverables**:
-     - Gather feedback from user acceptance testing (UAT).
-     - Perform security audits on FHE implementation.
-     - Optimize user interface and canister performance.
-
-#### **Milestone 6: Full Platform Launch (Weeks 16-18)**
-   - **Objective**: Launch the full platform with all core features and privacy-preserving capabilities.
-   - **Deliverables**:
-     - Public release with secure data storage, encrypted computation, and AI analytics.
-     - Provide documentation and user support for patients and healthcare providers.
-     - Launch marketing campaign targeting healthcare institutions and privacy-conscious users.
