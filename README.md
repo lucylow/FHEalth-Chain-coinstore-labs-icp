@@ -1,5 +1,8 @@
 # FHEalth: Fully Homomorphic Encryption for Advanced Life-saving Technology and Healthcare
 
+![alt text](https://github.com/lucylow/FHEalth-Chain-coinstore-labs-icp/blob/main/logo.png?raw=true)
+
+
 ### **Project Overview**
 **FHEalth** is a privacy-first healthcare platform built on the Internet Computer (ICP) that utilizes **Fully Homomorphic Encryption (FHE)** to ensure sensitive medical data can be securely stored, shared, and analyzed without ever being decrypted. FHEalth allows patients and healthcare providers to safely collaborate by leveraging encrypted data, ensuring that personal health information remains private throughout the entire process, even during computation.
 
@@ -14,6 +17,10 @@ The vision of **FHEalth** is to revolutionize the healthcare industry by offerin
 - **Global accessibility** to privacy-first healthcare solutions becomes the standard for secure medical services worldwide.
 
 We envision a future where **security and privacy are intrinsic** to every health data interaction, redefining trust between patients, healthcare providers, and technology.
+
+
+![alt text](https://github.com/lucylow/FHEalth-Chain-coinstore-labs-icp/blob/main/how%20it%20works.png?raw=true)
+
 
 ### **Features and Functionality**
 1. **Privacy-Preserving Computation**: FHEalth enables encrypted medical data processing on ICP canisters, allowing healthcare providers to run AI-driven analytics on sensitive data without decryption.
